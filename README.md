@@ -118,11 +118,13 @@ While mandatory statewide testing occurs in many states, several states have hig
 ### School Requirements for Testing
 * Most public schools require tests.
 * Wide range of variability in testing requirements for private schools.
+
 ![](https://github.com/jenniferlwilliamson/Project_1/blob/master/Visuals/BoxPlot.png)
 
 ### School Requirements for Testing vs Students Taking Test
 * Minimal correlation between private school requirements and whether students take tests.
 * Some correlation between public school requirements and whether students take tests.
+
 ![](https://github.com/jenniferlwilliamson/Project_1/blob/master/Visuals/CorrelationPlot.png)
 
 ![](https://github.com/jenniferlwilliamson/Project_1/blob/master/Visuals/ScatterPlot.png)
@@ -130,6 +132,7 @@ While mandatory statewide testing occurs in many states, several states have hig
 ### Limitation of Data
 * Did not find source that combines SAT and ACT data for student test takers, so I had to make assumptions to calculate the total number of test takers.
 * There's a negative correlation between the two and many states have a dominant test that most students take.  So I assumed the higher value of test taking percent as the total test takers for a given state (so where states have more of a mix in test this undercounts the total percent of test takers).
+
 ![](https://github.com/jenniferlwilliamson/Project_1/blob/master/Visuals/ScatterPlot_SAT_vs_ACT.png)
 
 ![](https://github.com/jenniferlwilliamson/Project_1/blob/master/Visuals/SATvsACT_barchart.png)
