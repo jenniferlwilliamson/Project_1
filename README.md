@@ -1,6 +1,3 @@
-<div style="background-color:dodgerblue;color:white;padding:20px;font-size:16px;font-family:'Arial'">
-  <h1>Reducing the Rate of Standardized Testing in the US</h1>
-</div>
 
 ---
 # File Structure
@@ -77,14 +74,14 @@ While mandatory statewide testing occurs in many states, several states have hig
 
 **2018 data on Institutional Characteristics** 
 
-![](https://git.generalassemb.ly/jenni5/project_1/blob/master/Visuals/ScreenShotHD.png)
+![](https://github.com/jenniferlwilliamson/Project_1/blob/master/Visuals/ScreenShotHD.png)
 
 * hd2018.csv - dataset for institutional characteristics
 * hd2018.xlsx - data dictionary for institutional characteristics
 
 **2018 data on Admissions and Test Scores**
 
-![](https://git.generalassemb.ly/jenni5/project_1/blob/master/Visuals/ScreenShotADM.png)
+![](https://github.com/jenniferlwilliamson/Project_1/blob/master/Visuals/ScreenShotADM.png)
 
 * folder ADM2018
    * adm2018_rv.csv - dataset for admissions and test scores
@@ -92,7 +89,7 @@ While mandatory statewide testing occurs in many states, several states have hig
 
 **2018 data on makeup of first-year students in the fall**
 
-![](https://git.generalassemb.ly/jenni5/project_1/blob/master/Visuals/ScreenShotEF.png)
+![](https://github.com/jenniferlwilliamson/Project_1/blob/master/Visuals/ScreenShotEF.png)
 
 * ef2018c.csv - dataset that includes state of residence for first year students
 * ef2018c.xlsx - data dictionary that includes state of residence for first year students
@@ -121,21 +118,21 @@ While mandatory statewide testing occurs in many states, several states have hig
 ### School Requirements for Testing
 * Most public schools require tests.
 * Wide range of variability in testing requirements for private schools.
-![](https://git.generalassemb.ly/jenni5/project_1/blob/master/Visuals/BoxPlot.png)
+![](https://github.com/jenniferlwilliamson/Project_1/blob/master/Visuals/BoxPlot.png)
 
 ### School Requirements for Testing vs Students Taking Test
 * Minimal correlation between private school requirements and whether students take tests.
 * Some correlation between public school requirements and whether students take tests.
-![](https://git.generalassemb.ly/jenni5/project_1/blob/master/Visuals/CorrelationPlot.png)
+![](https://github.com/jenniferlwilliamson/Project_1/blob/master/Visuals/CorrelationPlot.png)
 
-![](https://git.generalassemb.ly/jenni5/project_1/blob/master/Visuals/ScatterPlot.png)
+![](https://github.com/jenniferlwilliamson/Project_1/blob/master/Visuals/ScatterPlot.png)
 
 ### Limitation of Data
 * Did not find source that combines SAT and ACT data for student test takers, so I had to make assumptions to calculate the total number of test takers.
 * There's a negative correlation between the two and many states have a dominant test that most students take.  So I assumed the higher value of test taking percent as the total test takers for a given state (so where states have more of a mix in test this undercounts the total percent of test takers).
-![](https://git.generalassemb.ly/jenni5/project_1/blob/master/Visuals/ScatterPlot_SAT_vs_ACT.png)
+![](https://github.com/jenniferlwilliamson/Project_1/blob/master/Visuals/ScatterPlot_SAT_vs_ACT.png)
 
-![](https://git.generalassemb.ly/jenni5/project_1/blob/master/Visuals/SATvsACT_barchart.png)
+![](https://github.com/jenniferlwilliamson/Project_1/blob/master/Visuals/SATvsACT_barchart.png)
 
 ---
 # Conclusions/Recommendations
@@ -149,5 +146,5 @@ While mandatory statewide testing occurs in many states, several states have hig
 * Consider targeting public universities/colleges to remove their testing requirements in states without mandatory testing requirements.
 *  Research alternative relationships between testing and states.
 
-![](https://git.generalassemb.ly/jenni5/project_1/blob/master/Visuals/Map_of_US_Percent_take_test_public_school.png)
+![](https://github.com/jenniferlwilliamson/Project_1/blob/master/Visuals/Map_of_US_Percent_take_test_public_school.png)
 
